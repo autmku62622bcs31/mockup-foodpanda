@@ -78,7 +78,7 @@ form{
     margin: 20px;
     display: flex;
     gap: 50px;
-    margin: 100px 100px;
+    margin: 100px 140px;
     /* padding: 100px; */
 }
 input{
@@ -93,12 +93,12 @@ label,input{
 .query{
     border: white solid;
     border-radius: 25px;
-    width: 200px;
+    width: 150px;
     text-decoration: none;
     background-color: #ff007a;
     color: white;
     font-size: 18px;
-    padding: 13px 20px;
+    padding: 10px;
     font-weight: bolder;
     letter-spacing: 1px;
     margin-left: 1050px
